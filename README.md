@@ -1,0 +1,2 @@
+#Drum-Kit
+This is a JavaScript project for music lovers. Every click on a drum produces a unique sound. The event-listener aspect of JavaScript plays a unique sound when the drum is pressed (event is generated).
